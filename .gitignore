@@ -67,9 +67,3 @@ celerybeat-schedule
 
 #pycharm
 .idea/*
-services/modules/seat/backup10082017/manager.py
-services/modules/seat/backup10082017/tasks.py
-services/modules/seat/backup10082017/tests.py
-services/modules/seat/Backup working Model/manager.py
-services/modules/seat/Backup working Model/tasks.py
-services/modules/seat/Backup working Model/tests.py
